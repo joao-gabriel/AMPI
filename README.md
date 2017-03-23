@@ -11,6 +11,7 @@ Arduino Massage Pillow Interface
  * Motor temperature in Fahrenheit and Celsius;
  * Auto-stop and sound singal when over-heated;
  * Programmable rotation sequences up to 15 minutes;
+ * Rotations can be changed every 5 seconds;
 
 ## Parts List:
 
